@@ -13,8 +13,7 @@ This project was created using Sequelize, MySQL2, Express, and dotenv.
   4. Return npm start
 
 ## Usage
-To use this application, simply enter "node index.js" into your command line. Once the application is running, you can use your arrow keys to navigate through different options. Once you select an option, follow each prompt until completed.
-![recording](https://www.youtube.com/watch?v=3wUiN5WE1gY)
+* [Video Demonstration](https://www.youtube.com/watch?v=3wUiN5WE1gY)
 
 ## Contributors
 [Maria Lara](https://github/com/Maria-lara/)
